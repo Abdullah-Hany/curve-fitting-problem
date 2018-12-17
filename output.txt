@@ -1,0 +1,40 @@
+test case number : 1
+
+chromosome: -0.181 , 0.073 , 0.481 , 0.944
+
+error : 59747.277
+
+
+
+test case number : 2
+
+chromosome: -0.68 , -0.356 , 0.038 , -0.126 , -0.913 , 1.465
+
+error : 1.46902928E8
+
+
+
+test case number : 3
+
+chromosome: -0.948 , -0.074 , 0.188 , -0.815 , 0.772 , -0.284 , 0.241
+
+error : 1.99717712E8
+
+
+
+test case number : 4
+
+chromosome: 0.251 , -0.342 , 0.333 , 0.52 , 1.141
+
+error : 8359079.5
+
+
+
+test case number : 5
+
+chromosome: -0.237 , 0.791 , 0.224 , -1.12 , 0.272 , 1.155 , 0.209 , 0.37 , -0.669 , 0.179 , -1.206
+
+error : 3.91491611E15
+
+
+
